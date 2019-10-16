@@ -1,0 +1,67 @@
+INFO   - ----------------------------------Thu Sep 27 19:27:58 IST 2018---------------------------------- 
+INFO   - Employee : SAMPLE MANAGER 
+ERROR  - Validation Error : ED-5 : JobID not found in Fusion. Job Title [Technicalina] in Taleo does not match with JobName Name in Fusion 
+INFO   - Fusion Status : NOt Posted 
+DEBUG  - ***************************************************************************************************** 
+INFO   - Employee : SAMPLE_1 EMPLOYEE 
+ERROR  - Validation Error : ED-5 : JobID not found in Fusion. Job Title in Taleo does not match with JobName Name in Fusion 
+INFO   - Fusion Status : NOt Posted 
+DEBUG  - ***************************************************************************************************** 
+INFO   - Employee : SAMPLE_2 EMPLOYEE 
+ERROR  - Validation Error : ED-5 : JobID not found in Fusion. Job Title in Taleo does not match with JobName Name in Fusion 
+INFO   - Fusion Status : NOt Posted 
+DEBUG  - ***************************************************************************************************** 
+INFO   - Employee : SAMPLEHR HUMAN RESOURCES 
+ERROR  - Validation Error : ED-5 : JobID not found in Fusion. Job Title in Taleo does not match with JobName Name in Fusion 
+INFO   - Fusion Status : NOt Posted 
+DEBUG  - ***************************************************************************************************** 
+INFO   - Employee : Satish Kumar 
+ERROR  - Validation Error : ED-6 : Employee found in fusion. This is a possible case of a Re-Hire. 
+Please verify data and Re-hire the person manually in Fusion 
+
+DEBUG  - ***************************************************************************************************** 
+INFO   - Employee : Daniel Wiley 
+	
+INFO   - Fusion Status : Posted 
+DEBUG  - Taleo Status : Updated in taleo 
+DEBUG  - ***************************************************************************************************** 
+INFO   - Employee : Steven Borrego 
+INFO   - Error Code : 400 (Bad Request) 
+ERROR  - Responce Error : The Vertex code is missing for the home or work address. Check that the geocode exists for this location. (HRX-1560253) 
+INFO   - Fusion Status : NOt Posted 
+DEBUG  - ***************************************************************************************************** 
+INFO   - Employee : Frank Lyons 
+INFO   - Error Code : 400 (Bad Request) 
+ERROR  - Responce Error : The Vertex code is missing for the home or work address. Check that the geocode exists for this location. (HRX-1560253) 
+INFO   - Fusion Status : NOt Posted 
+DEBUG  - ***************************************************************************************************** 
+INFO   - Employee : Jason Walker 
+ERROR  - Validation Error : ED-3 : DepartmentID not found in fusion. Department Name in Taleo does not match with organization Name in Fusion 
+INFO   - Error Code : 400 (Bad Request) 
+ERROR  - Responce Error : No assignment record exists from 2018-09-27. (PER-1531647) 
+INFO   - Fusion Status : NOt Posted 
+
+DEBUG  - ***************************************************************************************************** 
+
+INFO   - Employee         : 	William Oliveros 
+ERROR  - Validation Error : 	ED-2 : Business Unit not found in fusion. Division Name in Taleo does not match with Business Unit Name in Fusion 
+INFO   - Error Code       : 	400 (Bad Request) 
+ERROR  - Responce Error   : 	You must provide a value for the attribute National ID. 
+INFO   - Fusion Status    :	NOt Posted 
+
+DEBUG  - ***************************************************************************************************** 
+
+INFO   - Employee : Henry Ryant 
+INFO   - Fusion Status : Posted 
+DEBUG  - Taleo Status : Updated in taleo 
+DEBUG  - ***************************************************************************************************** 
+INFO   - Employee : Joseph Fortner 
+INFO   - Error Code : 400 (Bad Request) 
+ERROR  - Responce Error : You have entered an invalid social security number. The social security number cannot start with 000, 666, or 9. (HRX-1560456) 
+INFO   - Fusion Status : NOt Posted 
+DEBUG  - ***************************************************************************************************** 
+INFO   - -------------------------------- Statistics -------------------------------------------------- 
+INFO   - Rows processed : 12 
+INFO   - Posted to fusion : 2 
+INFO   - Not Posted : 10 
+INFO   - ---------------------------------------------------------------------------------------------- 

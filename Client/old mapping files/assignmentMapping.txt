@@ -1,0 +1,6 @@
+AssignmentName hiredForReqTitle N
+JobId jobTitle N
+BusinessUnitId division N
+DepartmentId department N
+LocationId location N
+grsiHiringSource Source Y

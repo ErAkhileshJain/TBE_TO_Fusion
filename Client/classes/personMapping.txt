@@ -1,0 +1,20 @@
+LegalEntityId GRSi Legal Entity
+FirstName firstName
+MiddleName middleInitial
+LastName lastName
+WorkEmail email
+AddressLine1 address
+AddressLine2 address2
+City city
+Region county
+Region2 state
+Country country
+PostalCode zipCode
+LicenseNumber licenseNumber
+DateOfBirth birthdate
+Ethnicity race
+Gender gender
+Salutation salutation
+MaritalStatus maritalStatus
+NationalId ssn
+NationalIdCountry country

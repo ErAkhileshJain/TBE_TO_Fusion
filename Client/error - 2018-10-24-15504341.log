@@ -1,0 +1,165 @@
+--------------------------------------------------------------------------------Wed Oct 24 15:50:43 IST 2018---------------------------------------------------------------------------------
+
+
+************************************************************************************************************************************************************************
+
+Employee		: SAMPLE MANAGER
+Validation Error	: ED-5 : JobID not found in Fusion. Job Title [Manager, Customer Services] in Taleo does not match with JobName Name in Fusion
+Error Code		: 400
+Responce Error		: You must provide a value for the attribute National ID.
+Fusion Status		: Not Posted
+
+************************************************************************************************************************************************************************
+
+
+************************************************************************************************************************************************************************
+
+Employee		: SAMPLE_1 EMPLOYEE
+Validation Error	: ED-5 : JobID not found in Fusion. Job Title [Customer Service] in Taleo does not match with JobName Name in Fusion
+Error Code		: 400
+Responce Error		: You must provide a value for the attribute Country.
+You must provide a value for the attribute National ID.
+Fusion Status		: Not Posted
+
+************************************************************************************************************************************************************************
+
+
+************************************************************************************************************************************************************************
+
+Employee		: SAMPLE_2 EMPLOYEE
+Validation Error	: ED-1 : Cannot find legal entity ["LegalEntity": ""] in Taleo 
+Validation Error	: ED-5 : JobID not found in Fusion. Job Title [Customer Service, Phone Supoprt] in Taleo does not match with JobName Name in Fusion
+Error Code		: 500
+Responce Error		: 
+Fusion Status		: Not Posted
+
+************************************************************************************************************************************************************************
+
+
+************************************************************************************************************************************************************************
+
+Employee		: SAMPLEHR HUMAN RESOURCES
+Validation Error	: ED-1 : Cannot find legal entity ["LegalEntity": ""] in Taleo 
+Validation Error	: ED-5 : JobID not found in Fusion. Job Title [Manager, Human Resources] in Taleo does not match with JobName Name in Fusion
+Error Code		: 400
+Responce Error		: You must provide a value for the attribute National ID.
+Fusion Status		: Not Posted
+
+************************************************************************************************************************************************************************
+
+
+************************************************************************************************************************************************************************
+
+Employee		: Billy Glass
+Validation Error	: ED-6 : SalaryBasis ["SalaryBasis": ""] not found in Taleo.
+Error Code		: 500
+Responce Error		: 
+Fusion Status		: Not Posted
+
+************************************************************************************************************************************************************************
+
+
+************************************************************************************************************************************************************************
+
+Employee		: Jay Pope
+Validation Error	: ED-6 : SalaryBasis ["SalaryBasis": ""] not found in Taleo.
+Error Code		: 500
+Responce Error		: 
+Fusion Status		: Not Posted
+
+************************************************************************************************************************************************************************
+
+
+************************************************************************************************************************************************************************
+
+Employee		: Jason Walker
+Validation Error	: ED-3 : DepartmentID not found in fusion. Department Name [GEOINT T&E] in Taleo does not match with organization Name in Fusion
+Error Code		: 500
+Responce Error		: 
+Fusion Status		: Not Posted
+
+************************************************************************************************************************************************************************
+
+
+************************************************************************************************************************************************************************
+
+Employee		: William Oliveros
+Validation Error	: ED-2 : Division Name ["divisionName": ""] not found in Taleo.
+Error Code		: 500
+Responce Error		: 
+Fusion Status		: Not Posted
+
+************************************************************************************************************************************************************************
+
+
+************************************************************************************************************************************************************************
+
+Employee		: A B
+Validation Error	: ED-4 : LocationID not found in fusion. Location Name [GRSi Corporate Headquarters] in Taleo does not match with Location in Fusion
+Error Code		: 400
+Responce Error		: You must provide a value for the attribute National ID.
+Fusion Status		: Not Posted
+
+************************************************************************************************************************************************************************
+
+
+************************************************************************************************************************************************************************
+
+Employee		: Carl Juarez
+Validation Error	: ED-6 : SalaryBasis ["SalaryBasis": ""] not found in Taleo.
+Error Code		: 400
+Responce Error		: No assignment record exists from 2018-10-24. (PER-1531647)
+Fusion Status		: Not Posted
+
+************************************************************************************************************************************************************************
+
+
+************************************************************************************************************************************************************************
+
+Employee		: John Johnson
+Validation Error	: ED-2 : Division Name ["divisionName": ""] not found in Taleo.
+Error Code		: 400
+Responce Error		: You must provide a value for the attribute National ID.
+Fusion Status		: Not Posted
+
+************************************************************************************************************************************************************************
+
+
+************************************************************************************************************************************************************************
+
+Employee		:  Candidate100
+Validation Error	: ED-5 : JobTitle not ["JobTitle": ""] found in Taleo.
+Validation Error	: ED-2 : Division Name ["divisionName": ""] not found in Taleo.
+Error Code		: 400
+Responce Error		: You must provide a value for the attribute National ID.
+Fusion Status		: Not Posted
+
+************************************************************************************************************************************************************************
+
+
+************************************************************************************************************************************************************************
+
+Employee		: A1 CandFirst A1 CandL
+Error Code		: 500
+Responce Error		: 
+Fusion Status		: Not Posted
+
+************************************************************************************************************************************************************************
+
+
+************************************************************************************************************************************************************************
+
+Employee		: Suleimon Bello
+Error Code		: 400
+Responce Error		: You have entered an invalid social security number. The social security number must be a 9-digit numeric field. (HRX-1560111)
+Fusion Status		: Not Posted
+
+************************************************************************************************************************************************************************
+
+-------------------------------- Statistics --------------------------------------------------
+
+Rows processed		: 14
+Posted to fusion	: 0
+Not Posted		: 14
+----------------------------------------------------------------------------------------------
+

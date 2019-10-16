@@ -1,0 +1,25 @@
+LegalEntityId LegalEntity N
+FirstName firstName N
+MiddleName middleInitial N
+LastName lastName N
+WorkEmail email N
+AddressLine1 address N
+AddressLine2 address2 N
+City city N N null
+Region county N
+Region2 state N
+Country country N
+PostalCode zipCode N
+LicenseNumber licenseNumber N
+DateOfBirth birthdate N
+Gender gender N
+Salutation salutation N
+MaritalStatus maritalStatus N
+NationalId ssn N
+NationalIdCountry country N
+HomePhoneNumber phone N
+WorkMobilePhoneNumber cellPhone N
+PassportNumber passportNumber N
+Ethnicity race N
+
+

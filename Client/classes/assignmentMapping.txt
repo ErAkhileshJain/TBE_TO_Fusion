@@ -1,0 +1,8 @@
+AssignmentName hiredForReqTitle
+BusinessUnitId divisionName
+LocationId GRSi Maryland
+DepartmentId departmentName
+JobId jobCode
+ActionCode HIRE
+ActionReasonCode NEWHIRE
+AssignmentStatus ACTIVE

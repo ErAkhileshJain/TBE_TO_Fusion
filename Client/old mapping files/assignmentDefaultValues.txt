@@ -1,0 +1,3 @@
+ActionCode HIRE
+AssignmentStatus ACTIVE
+ActionReasonCode NEWHIRE

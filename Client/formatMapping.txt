@@ -1,0 +1,10 @@
+Hispanic or Latino~~4
+White (not Hispanic or Latino)~~1
+Black or African American (not Hispanic or Latino)~~3
+Native Hawaiian or Other Pacific Islander (not Hispanic or Latino)~~6
+Asian (not Hispanic or Latino)~~5
+American Indian or Alaska Native (not Hispanic or Latino)~~7
+Two or More Races (not Hispanic or Latino)~~2
+Choose Not to Disclose~~8
+Male~~M
+Female~~F
